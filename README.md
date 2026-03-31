@@ -22,4 +22,3 @@ Finálním payloadem jsem vyexfiltrovat obsah tabulky `config` a získal vlajku.
 
 ## Screenshot
 ![Vlajka v aplikaci](screenshot.png)
-
