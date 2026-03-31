@@ -22,4 +22,4 @@ Finálním payloadem jsem vyexfiltrovat obsah tabulky `config` a získal vlajku.
 
 ## Screenshot
 ![Vlajka v aplikaci](screenshot.png)
-<img width="1920" height="1036" alt="Screenshot_20260331_102239" src="https://github.com/user-attachments/assets/e9ef139c-414b-42c6-946d-63756692aedc" />
+
